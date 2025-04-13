@@ -13,5 +13,7 @@ public class Main {
                 + firstCat.getColor() + ", " + firstCat.getAge());
         System.out.println("Данные второго кота: " + secondCat.getName() + ", "
                 + secondCat.getColor() + ", " + secondCat.getAge());
+        System.out.println("Данные второго кота: " + secondCat.getName() + ", "
+                + secondCat.getColor() + ", " + secondCat.getAge());
     }
 }
