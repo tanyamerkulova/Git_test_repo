@@ -48,7 +48,6 @@ public class RadioButtonTest {
 
 
 //        WebElement noRadioButton = driver.findElement(By.xpath("//input[@id='noRadio']"));
-//
 //        WebElement impressiveRadioButton = driver.findElement(By.xpath("//input[@id='impressiveRadio']"));
 
     }
